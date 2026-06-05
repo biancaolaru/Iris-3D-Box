@@ -18,3 +18,6 @@ https://www.youtube.com/shorts/Pkz72YNvrwk
    
 # Box closed
 <img width="902" height="708" alt="box-closed" src="https://github.com/user-attachments/assets/644fa425-ced9-4a1a-92c7-9b6b0bba6230" />
+
+# Box Opened
+<img width="811" height="713" alt="box-opened" src="https://github.com/user-attachments/assets/106bacf1-fa9e-476a-8e1c-ffaef67fe5d7" />
