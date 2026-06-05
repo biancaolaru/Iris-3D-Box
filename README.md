@@ -1,9 +1,9 @@
 ## Iris-3D-Box
 
-#Description
+# Description
 This project focuses on the engineering and design of an iris mechanism. Using Fusion 360, I created a series of interlocking leaves that rotate in unison to open and close the lid. The design was approached with a focus on mechanical constraints and assembly clearances to ensure that all parts function together.
 
-#Parts used
+# Parts used
 1. Frame-Base - this part represents the box itself.
 2. Frame-Top
 3. Frame-Cap
