@@ -15,4 +15,6 @@ https://www.youtube.com/shorts/Pkz72YNvrwk
 6. Leaf - the project needs 5 leaves that form the actual lid of the box.
 7. Arm - it helps with moving the leaves to open and close the lid.
 8. Pin-Int & Pin-Ext - helps to keep together the other parts in some points.
-
+   
+# Box closed
+<img width="902" height="708" alt="box-closed" src="https://github.com/user-attachments/assets/644fa425-ced9-4a1a-92c7-9b6b0bba6230" />
